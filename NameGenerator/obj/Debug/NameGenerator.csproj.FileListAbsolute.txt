@@ -1,0 +1,9 @@
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe.config
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.pdb
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.csprojResolveAssemblyReference.cache
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.Form1.resources
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.Properties.Resources.resources
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.csproj.GenerateResource.Cache
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.exe
+c:\users\teyrtoruk\documents\visual studio 2015\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.pdb
